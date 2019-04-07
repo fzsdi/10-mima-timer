@@ -1,1 +1,1 @@
-# 10-mima-timer
+# 10 Min Max Timer
